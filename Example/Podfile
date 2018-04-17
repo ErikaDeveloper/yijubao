@@ -1,0 +1,6 @@
+use_frameworks!
+target 'yijubao_Tests' do
+  pod 'yijubao', :path => '../'
+  
+  
+end
